@@ -1,0 +1,19 @@
+body{
+    background-color: lavender;
+}
+
+h1{
+    color: darkviolet;
+    text-align: center;
+    line-height: 60px;
+}
+
+button{
+    padding: 2%;
+    font-size: large;
+    background-color: #BF94E4;
+    border: none;
+    cursor: pointer;
+    position:absolute;
+    left: 45%;
+}

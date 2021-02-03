@@ -1,0 +1,33 @@
+body{
+    background-color: lavender;
+}
+
+h1{
+    text-align: center;
+    margin: 100px;
+    color: darkviolet;
+    font-size: 50px;
+}
+
+h2{
+    color: darkviolet;
+    margin-left: 25px;
+}
+
+label{
+    font-size: 21px;
+    color: darkviolet;
+    margin-left: 25px;
+}
+
+button{
+    position: absolute;
+    bottom:120px;
+    right: 90px;
+    font-size: 25px;
+    color: #e6e8fa;
+    background-color: #967bb6;
+    cursor: pointer;
+}
+
+

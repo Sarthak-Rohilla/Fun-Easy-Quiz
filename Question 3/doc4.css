@@ -1,0 +1,58 @@
+body{
+    background-color:lavender;
+}
+
+.B1{
+    height: 150px;
+    width: 150px;
+    position: absolute;
+    right: 690px;
+    top: 180px;
+    cursor: pointer;
+    font-size: large;
+    margin-top: 80px;
+    margin-right: 40px;
+}
+
+.B1:disabled{
+    color: black;
+}
+
+.B2{
+    height: 150px;
+    width: 150px;
+    position: absolute;
+    right: 500px;
+    top: 180px;
+    cursor: pointer;
+    font-size: large;
+    margin-top: 80px;
+    margin-left: 40px;
+}
+
+.B2:disabled{
+    color:black
+}
+
+.que1{
+    position: absolute;
+    left: 20px;
+    top: 0px;
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 60px;
+    margin-top: 60px;
+    color: indigo;
+}
+
+.que-h1{
+    text-align: center;
+    margin-bottom: 60px;
+    margin-top: 60px;
+    color: indigo;
+    font-size: 47px;
+    position: relative;
+    top: 70px;
+}
